@@ -39,5 +39,3 @@ An interactive Excel dashboard designed to analyze e-commerce sales performance 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/322b1898-0218-43f9-943f-d67884e6b19e" />
 
 
-(Add dashboard screenshot here)
-
